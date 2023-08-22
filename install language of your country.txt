@@ -1,0 +1,4 @@
+
+install languages in python for kivy lib python 3
+
+pip install [your_language]_reshaper [versions]

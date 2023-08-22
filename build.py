@@ -17,9 +17,9 @@ OR:
 class Simple_app(App):
     def build(self):
     	#add icon, png
-    	self.icon = 'build.png'
+    	self.icon = 'arabic_lang.png'
     	#name of app
-    	self.title = 'build App'
+    	self.title = 'with language arabic مع اللغة العربية'
 
 
 if __name__ == '__main__':
