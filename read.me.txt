@@ -1,7 +1,5 @@
-python 3 kivy tutorials Images and codes learn kivy python 3 code 2023 .png file.py
-
-======(francais)=====
-les chapiter de kivy python 3 photo et code 2023 Sampel
-
-=====(Arabic)======
-بايثو 3 kivy صور وبرامج امثلة تطبيقات وبرامج بسيطة كتب png ,.py2023
+convert file.py to file.exe with pyinstaller
+=========(setup)================
+pip install pyinstaller
+cmd, shell, termux -->
+python -m PyInstaller your_file.py --onefile
